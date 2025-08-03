@@ -1,6 +1,2 @@
-﻿# Capstione Design Project
-
-pip install flask
-pip install mysql-connector
-pip install transformers
-pip install accelerate
+﻿This is the baseline v1 code before planned refactoring.
+Will revisit structure and naming in the next iteration.
